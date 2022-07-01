@@ -4,9 +4,9 @@
 
 /**
 * main - prints last digit of random number stored in the variable n
-* Return : Always 0 (success)
+* Return: Always 0 (success)
 */
- 
+
 int main(void)
 {
 	int n;
