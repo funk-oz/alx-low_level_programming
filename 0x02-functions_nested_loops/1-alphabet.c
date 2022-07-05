@@ -4,6 +4,9 @@
  * print_alphabet - prints the alphabet in lowercase followed by new line
  */
 
+int main(void)
+{
+
 void print_alphabet(void)
 {
 	char ch;
@@ -16,4 +19,6 @@ void print_alphabet(void)
 		ch++;
 	}
 	_putchar('\n');
+	return (0);
+}
 }
