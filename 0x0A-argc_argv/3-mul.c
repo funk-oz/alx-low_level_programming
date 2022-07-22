@@ -3,7 +3,6 @@
 #include "main.h"
 
 /**
-
  * main - Entry Point
  * atoi is a function that converts a string into an int
  * @argc: arguments
